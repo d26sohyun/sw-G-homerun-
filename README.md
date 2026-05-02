@@ -13,13 +13,13 @@
 
 > ⚠ 공개 레포지토리이므로 학번 등 개인 식별 정보는 포함하지 않는다.
 
-| 이름 | 역할 |\
-| ------ | ------ |\
-| 김성원 |  PM (팀장) |\
-| 김소리 | 분석가 |\
-| 김민석 | 설계자 |\
-| 유소현 | 개발자 |\
-| 한정민, 박지민 |  QA/보안 |
+|이름|역할|
+|------|------|
+|김성원|PM (팀장)|
+|김소리|분석가|
+|김민석|설계자|
+|유소현|개발자|
+|한정민, 박지민|QA/보안|
 
 ## 주요기능
 
@@ -31,15 +31,15 @@
 ## 마일스톤
 
 <!-- 아래 URL에서 [username]과 [팀명]을실제값으로교체한다 -->
--[M1 기획](https://github.com/[username]/sw-[팀명]/milestone/1) \
--[M2 설계](https://github.com/[username]/sw-[팀명]/milestone/2) \
--[M3 구현·보고](https://github.com/[username]/sw-[팀명]/milestone/3)
+-[M1 기획](https://github.com/d26sohyun/sw-G-homerun-/milestone/1) \
+-[M2 설계](https://github.com/d26sohyun/sw-G-homerun-/milestone/2) \
+-[M3 구현·보고](https://github.com/d26sohyun/sw-G-homerun-/milestone/3)
 
 ##  문서
 
--[요구사항정의서](docs/requirements.md) \
--[WBS 및일정](docs/wbs.md) \
--[회의록목록](docs/meetings/)
+-[요구사항 정의서](docs/requirements.md) \
+-[WBS 및 일정](docs/wbs.md) \
+-[회의록 목록](docs/meetings/)
 
 
 
